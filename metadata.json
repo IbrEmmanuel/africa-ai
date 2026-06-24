@@ -1,0 +1,6 @@
+{
+  "name": "Africa-ai",
+  "description": "An AI operating system with Website Builder, Learning Agent, Research Agent, and Task Automator powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
